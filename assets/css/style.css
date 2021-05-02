@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* Set Header Font size and Style */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -23,7 +23,7 @@ header h1 {
 header h1 .seo {
     color: #d9dcd6;
 }
-
+/* Nav Bar Placement with font size and style*/
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -49,7 +49,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* BAckground cover img*/
 .hero {
     height: 800px;
     width: 100%;
